@@ -1,142 +1,94 @@
-<p align="center">
-<img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
-<p align="center">
-<img src="https://i.ibb.co/82zgjSR/20220926-155611.png" alt="nz" width="350"/>
-</p>
-
-## 𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 -𝗕𝗢𝗧࿐   Version 12.0
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
-
-LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
-
-> [🔄Please Follow Me🤭](https://github.com/xcodejet)
-
-<img src="https://github.com/xcodejet/xcodejet/blob/main/xcodejet-media/xcodejet_gif.gif">" alt="Loading..." width="310"/>
-
-# Powered By: XCODEJET
-
-
-<p align="center">
-❯❯😎Kick bellow topics😒❮❮
+# Queen Ben MD
 </p>
 <p align="center">
-👇To proccess👇
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+BEN+WHATSAPP+BOT" alt="">
+
 </p>
-
-## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
- 
-## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
- 
-## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
-
-## 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
-
-
+<p>
 <p align="center">
+<a href="https://github.com/charukajalanidu?t# Queen Ben MD
 
-<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
 
+<p align="center"> 
+<u>💖ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ charuka💖</u>
 </p>
-
-</details>
-
-<b><details><summary>🔄How to Update Bot🔄</summary>
-
-> [VIDEO](https://drive.google.com/file/d/1798s8erVW31EcmK3Opq-QuV7GG4byyoH/view)
-
-</b>
-</details>
-
-<b><details><summary>📤How to Upload Images To Alive Msg📤</summary>
-
-> [VIDEO](https://drive.google.com/file/d/16J5278xK9-5oJUsGPygviVC9U6exw1AZ/view)
-
-</b>
-</details>
-
-<b><details><summary>🪀Recommended WhatsApps🪀</summary>
-
->If you using mod whatsapp!
->DO NOT USE FOUD MODS.
-
->ඔබ වට්සැප් මොඩ් භාවිතා කරනවා නම් Foud mod හෝ වෙනත් පරණ Base සහිත වට්සැප් මගින් ඔබේ ගිනුම තාවකාලිකව Ban විය හැකියි.
-
-Recommended WhatsApp👇
->Normal WhatsApp [DOWNLOAD](https://play.google.com/store/apps/details?id=com.whatsapp)
->YMWhatsApp Mod [DOWNLOAD](https://ymwhatsapp.com/ymwa/)
-
-</b>
-</details>
-
-##
-
-> [SUPPORT GROUP](https://chat.whatsapp.com/I1v5ZTJeFjZ9x5LzG3qPHU)
-
-<b><details><summary>𝗛𝗼𝘄 𝗧𝗼 𝗠𝗮𝗸𝗲?</summary>
-
->මුලින්ම qr code එක scan කරගන්න🥲. multi devices beta වැඩ කරනෝ
-
->ඊට පස්සෙ මේ git එක fork කරගන්න. හරි. දැන් ඔයා fork කරගත්ත git එකට යන්න😌.
-
->දැන් වට්සැප් එකේ ඔයාගෙ ලොක් අංගයට session.json කියලා file එකක් ඇවිල්ලා ඇති. ඒක තියෙන්නෙ Whatsapp > media > whatsapp documents > session.json  මෙතන.
-
->දැන් ඔයා අර fork කරපු git එකට ආයි ගිහින් ඒ session.json එක upload කරලා commit changes දෙන්න😁.
-
->දැන් ආයි බැක් වෙලා Edit 'setting.js' With Your Choice ගිහින් ඒව මේව වෙනස් කරගන්න පුලුවං😒😒😒
-
->යටට ගිහින් "Then Deploy The Bot From Here "👈මෙතනින් deploy කරන්න විතරයි තියෙන්නෙ😁
-
-</b>
-</details>
-
-<!-- Contact Owner -->
-<b><details><summary>Contact Owner 😜</summary></b>
-
-## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/380944814219"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
+<img src="https://i.ibb.co/KDz95BM/IMG-20231119-WA0042.jpg" width="300" height="300"/>
 </p>
-
-</details>
-
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+BEN+WHATSAPP+BOT" alt="">
+
 </p>
+<p>
+<p align="center">
+<a href="https://github.com/charukajalanidu?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?co<a href="https://github.com/charukajalanidu?t# Queen Ben MD
 
-## 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐
+
+<p align="center"> 
+<u>💖ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ charuka💖</u>
+</p>
+<p align="center">
+<img src="https://i.ibb.co/KDz95BM/IMG-20231119-WA0042.jpg" width="300" height="300"/>
+</p>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+BEN+WHATSAPP+BOT" alt="">
+
+</p>
+<p>
+<p align="center">
+<a href="https://github.com/charukajalanidu?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+<a href="https://github.com/charukajalanidu/Queen-Ben-Md-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/charukajalanidu/Queen-Ben-MD?color=white&style=flat-square"></a>
+<a href="https://github.com/charukajalanidu /Queen-Ben-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/charukajalanidu/Queen-Ben-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/charukajalanidu /Queen-Ben-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/charukajalanidu/Queen-Ben-MD?label=Watchers&color=red&style=flat-square"></a>
+  
+</p>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mr charuka-red.svg?style=for-the-badge&logo=github"></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FF000000&random=false&width=445&lines=%F0%9F%92%97Welcome+to+Queen+ben+;whatsap+bot%F0%9F%92%97;create+by+mr+charuka" alt="Typing SVG" /></a>
+
+#
+
+<!---
+alonesaja1/alonesaja1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+* 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
+  
+<p align="left">
+<a href="https://github.com/charukajalanidu/Queen-Ben-MD-/fork"><img align="center" src="https://i.ibb.co/s2r5Rk4/IMG-20231120-144725.jpg" alt="Fork and deploy" height="35" width="155" /></a>
 
 
+#
 
-<b><details><summary>Available Features</summary><br>
-	
-| Features |  Availability |
-| :------: |  :----------: |
-|   Convert     |       😎     |
-|   Database     |       😎     |
-|   Owner     |       😎    |
-|   Downloader     |       😎     |
-|   Webzone     |       😎       |
-|   Searching     |       😎      |
-|   Textpro     |       😎      |
-|   Ephoto     |       😎     |
-|   Anime Web     |       😎      |
-|   Stalker     |       😎      |
-|   Random Text     |       😎     |
-|   Random Image     |       😎     |
-|   Creator     |       😎      |
+* qr ස්කෑන් කිරීමට පහල බටනය ක්ලික් කරන්න👇
 
+
+<p align="left">
+<a href="https://replit.com/@alonesaja1/Queen-Ben-Bot-Qr-Code-1?v=1"><img align="center" src="https://i.ibb.co/7kCKn86/IMG-20231120-164801.jpgalt="scan qr code" height="35" width="155" /></a>
+
+
+#
+
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
+
+
+[`Deploy on Railway`](https://railway.app?referralCode=jDDNQq)
+
+[`Deploy on Koyeb`](https://app.koyeb.com/)
+
+[`Deploy on Mogenius`](https://studio.mogenius.com/)
+
+[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/alonesaja1/Queen-Ben-MD-)
+
+[`Deploy on Replit`](https://replit.com)
+
+[`Deploy on Uffizzi`](https://www.uffizzi.com/)
 </details>
 
-<div align="center">
-	
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-</div>
-
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
+#
+<!---
+alonesaja1/alonesaja1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
